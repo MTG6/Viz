@@ -1,0 +1,19 @@
+body {
+	background:none;
+}
+
+.bar {
+	fill: steelblue;
+}
+
+.bar:hover {
+	fill: magenta;
+}
+
+.axis-x path {
+	display: none;
+}
+
+axis line {
+	opacity:0.5;
+}
